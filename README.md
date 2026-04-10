@@ -1,5 +1,10 @@
 # 🏨 AtliQ Hotels Data Analysis Project
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## 📌 Project Overview
 
 AtliQ Grands is a premium 5-star hotel chain operating across 4 major cities in India — **Delhi, Mumbai, Bangalore, and Hyderabad**. Despite being in the hospitality industry for over 20 years, the company has been losing its market share and revenue due to competitors' strategic moves and ineffective decision-making by management.
