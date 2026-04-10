@@ -291,3 +291,25 @@ df_bookings_all_rev.groupby("booking_platform")["revenue_realized"].sum()
 | direct offline | ₹8.64 Cr |
 
 > 📌 "Others" platform contributes the highest revenue. Direct offline is the lowest — digital presence needs improvement.
+
+## 📊 Conclusion
+
+This project successfully analyzed AtliQ Grands historical booking data from **May 2022 to July 2022** covering **7 hotels across 4 cities** with over **1.34 lakh booking records**.
+
+**Key Findings:**
+
+- **Delhi** is the best performing city with highest occupancy (61.51%) and highest customer ratings (3.78)
+- **Mumbai** generates the highest revenue (₹66.86 Cr) despite not having the highest occupancy rate
+- **Weekend occupancy (72.34%)** is significantly higher than weekday occupancy (50.88%) — a 42% difference
+- **RT4 Presidential Suite** has the highest occupancy rate (59.28%) among all room types
+- **Atliq Exotica** is the top revenue generating hotel (₹32.03 Cr) while **Atliq Seasons** is the lowest (₹6.61 Cr)
+- **Bangalore** has the lowest occupancy and lowest customer ratings (3.41) — needs immediate attention
+- Total revenue generated in 3 months: **₹170.85 Crore**
+
+**Business Recommendations:**
+
+- Implement **dynamic pricing on weekends** to maximize revenue during high demand days
+- Focus on **improving service quality in Bangalore** to boost ratings and occupancy
+- Investigate why **Atliq Seasons** is underperforming and take corrective actions
+- Strengthen **direct booking channels** as direct offline contributes the least revenue
+- Deep dive into **"Others" booking platform** to identify and strengthen that revenue stream
